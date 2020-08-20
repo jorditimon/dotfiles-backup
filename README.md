@@ -8,8 +8,8 @@
      AMV   ,M Mb     dM   MM      MM
     AMVmmmmMM P"Ybmmd"  .JMML.  .JMML.
 
-My ZSH config/alias Jordi Timón 
-@ https://github.com/jorditimon
+My ZSH config and aliases (nothing new here...)
+<br>Jordi Timón @ https://github.com/jorditimon
 
 
 # 1.    Aliases

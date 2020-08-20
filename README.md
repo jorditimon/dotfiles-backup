@@ -1,17 +1,17 @@
 
 
-    MMM"""AMV  .M"""bgd `7MMF'  `7MMF'
-    M'   AMV  ,MI    "Y   MM      MM
-    '   AMV   `MMb.       MM      MM
-       AMV      `YMMNq.   MMmmmmmmMM
-      AMV   , .     `MM   MM      MM
-     AMV   ,M Mb     dM   MM      MM
-    AMVmmmmMM P"Ybmmd"  .JMML.  .JMML.
+ MMM"""AMV  .M"""bgd `7MMF'  `7MMF'
+ M'   AMV  ,MI    "Y   MM      MM
+ '   AMV   `MMb.       MM      MM
+    AMV      `YMMNq.   MMmmmmmmMM
+   AMV   , .     `MM   MM      MM
+  AMV   ,M Mb     dM   MM      MM
+ AMVmmmmMM P"Ybmmd"  .JMML.  .JMML.
 
-    My ZSH config. Jordi Timón @ https://github.com/jorditimon
+My ZSH config. Jordi Timón @ https://github.com/jorditimon
 
 
- # Aliases
+# 1.    Aliases
 
 
 ## Unzip files
@@ -114,7 +114,7 @@ alias tor="transmission-remote"
 
 ```
 
-# 2. Shortcuts
+# 2.    Shortcuts
 
  Example:
  brainstormr=~/Projects/development/planetargon/brainstormr
@@ -130,7 +130,7 @@ alias ~="cd ~"
 ```
 
 
-# 3.	Neofetch
+# 3.    Neofetch
 
 ``` shell
  neofetch

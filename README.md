@@ -117,8 +117,8 @@ alias tor="transmission-remote"
 
 # 2.    Shortcuts
 
- Example:
- brainstormr=~/Projects/development/planetargon/brainstormr
+ Example<br>
+ brainstormr=~/Projects/development/planetargon/brainstormr<br>
  cd $brainstormr
 
 ``` shell
@@ -140,6 +140,6 @@ alias ~="cd ~"
 
 
 
-_ Banner font: "Georgia 11"
+_ Banner font: "Georgia 11"<br>
  @ https://manytools.org/hacker-tools/ascii-banner/
 _

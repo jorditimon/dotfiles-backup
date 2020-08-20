@@ -1,14 +1,15 @@
 
-<pre>
- MMM"""AMV  .M"""bgd `7MMF'  `7MMF'
- M'   AMV  ,MI    "Y   MM      MM
- '   AMV   `MMb.       MM      MM
-    AMV      `YMMNq.   MMmmmmmmMM
-   AMV   , .     `MM   MM      MM
-  AMV   ,M Mb     dM   MM      MM
- AMVmmmmMM P"Ybmmd"  .JMML.  .JMML.
-</pre>
-My ZSH config. Jordi Timón @ https://github.com/jorditimon
+
+    MMM"""AMV  .M"""bgd `7MMF'  `7MMF'
+    M'   AMV  ,MI    "Y   MM      MM
+    '   AMV   `MMb.       MM      MM
+       AMV      `YMMNq.   MMmmmmmmMM
+      AMV   , .     `MM   MM      MM
+     AMV   ,M Mb     dM   MM      MM
+    AMVmmmmMM P"Ybmmd"  .JMML.  .JMML.
+
+My ZSH config/alias Jordi Timón 
+@ https://github.com/jorditimon
 
 
 # 1.    Aliases

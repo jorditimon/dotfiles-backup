@@ -8,7 +8,7 @@
      AMV   ,M Mb     dM   MM      MM
     AMVmmmmMM P"Ybmmd"  .JMML.  .JMML.
 
-My ZSH config and aliases (nothing new here...)
+My ZSH config and aliases cheat sheet
 <br>Jordi Timón @ https://github.com/jorditimon
 
 
